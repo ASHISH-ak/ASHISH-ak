@@ -76,8 +76,8 @@
 
 ## 📫 Connect With Me
 
-* LinkedIn: (Add your link here)
-* GitHub: https://github.com/your-username
+* LinkedIn: https://www.linkedin.com/in/ashish-kumawat-1989bb246/
+* GitHub:https://github.com/ASHISH-ak
 
 ---
 
